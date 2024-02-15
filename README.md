@@ -1,6 +1,9 @@
 # Neural Network from Scratch with NumPy 🧠
 This project implements a simple neural network using only the [NumPy](https://numpy.org/) library in Python to recognize handwritten digit from [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset). The neural network is built manually, including phases such as optimization with gradient descent, forward propagation, and backpropagation.
 
+## Theoretical explanation 📘 
+For the theoretical explanation see the attached `.pdf`.
+
 ## Features 🚀
 - Implementation of the neural network from scratch using only NumPy.
 - Training functionality using gradient descent.
